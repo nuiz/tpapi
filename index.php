@@ -2,6 +2,10 @@
 /**
  * Created by PhpStorm.
  * User: p2
- * Date: 10/15/14
- * Time: 2:58 PM
- */ 
+ * Date: 7/16/14
+ * Time: 5:28 PM
+ */
+
+require_once 'bootstrap.php';
+
+\Main\App::start();

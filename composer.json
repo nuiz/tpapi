@@ -1,0 +1,19 @@
+{
+    "name": "vendor_name/package_name",
+    "description": "description_text",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "author's name",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+        "dannykopping/docblock": "0.5.2",
+        "altorouter/altorouter": "v1.1.0",
+        "mashape/unirest-php": "dev-master",
+        "vlucas/valitron": "1.1.7",
+        "facebook/php-sdk-v4": "4.0.11"
+    }
+}
